@@ -207,20 +207,12 @@ body {
     display: inline-flex;
     align-items: center;
     width: 276px;
+    color: #ccc;
 }
 
 .checkbox img {
     width: 13px;
     height: 13px;
-}
-
-.checkbox p {
-    color: #ccc;
-    font-family: 'Helvetica Neue';
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 16px;
-    margin-left: 5px;
 }
 
 .popup-body button {
